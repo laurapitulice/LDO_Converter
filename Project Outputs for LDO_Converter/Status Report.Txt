@@ -1,0 +1,20 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [LDO_Converter.PrjPcb]
+   Generated File[LDO_PCB_Copper_Signal_Top.gbr]
+   Generated File[LDO_PCB_Copper_Signal_Bot.gbr]
+   Generated File[LDO_PCB_Legend_Top.gbr]
+   Generated File[LDO_PCB_Soldermask_Top.gbr]
+   Generated File[LDO_PCB_Soldermask_Bot.gbr]
+   Generated File[LDO_PCB_Paste_Top.gbr]
+   Generated File[LDO_PCB_Profile.gbr]
+   Generated File[LDO_PCB_NPTH_Drill.gbr]
+   Generated File[LDO_PCB_PTH_Drill.gbr]
+   Generated File[LDO_PCB.EXTREP]
+   Generated File[LDO_PCB.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 12:50:43 AM On 3/24/2026
