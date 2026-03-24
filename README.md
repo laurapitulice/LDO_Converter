@@ -1,4 +1,4 @@
-# ⚡ Power Converter PCB
+# ⚡ 5V-to-3.3V LDO Converter PCB Design 
 
 Designed and validated a 5V-to-3.3V Low Dropout (LDO) regulator in Altium Designer, executing the complete PCB design flow from schematic capture and ERC validation to PCB layout, routing, and Gerber X2 file generation.
 
